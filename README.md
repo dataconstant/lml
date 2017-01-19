@@ -1,3 +1,3 @@
 # machinelearning
 
-Folowing online course by LazyProgrammer 
+Following various sources
