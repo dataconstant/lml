@@ -4,7 +4,7 @@ import matplotlib.pyplot as pyplot
 
 #Loading Data
 
-df=pd.read_csv('data_2d.csv',header=-1,names=['a','b','c'])
+df=pd.read_csv('data/data_2d.csv',header=-1,names=['a','b','c'])
 
 X1=df['a']
 X2=df['b']

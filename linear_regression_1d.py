@@ -4,7 +4,7 @@ import pandas as pd
 
 #loading data
 
-df=pd.read_csv('data_1d.csv',header=-1,names=['x','y'])
+df=pd.read_csv('data/data_1d.csv',header=-1,names=['x','y'])
 x=df['x']
 y=df['y']
 x=np.array(x)
